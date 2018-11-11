@@ -1,6 +1,9 @@
 # Arduino Game Controller
 A small Arduino sketch written for the Arduino Leonardo that allows it to interface as a simple game controller.
 
+![Game Controller Demo](https://github.com/mtfuller/arduino-game-controller/raw/master/docs/img/GameControllerDemo.gif?raw=true "Game Controller Demo")
+
+
 ## Requirments
 ### Hardware Components
 For this project, I used two components for the game controller:
